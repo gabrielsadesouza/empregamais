@@ -35,7 +35,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import br.com.fiap.empregamais.Screens.LoginScreen
+import br.com.fiap.empregamais.screens.LoginScreen
 import br.com.fiap.empregamais.ui.theme.EmpregaMaisTheme
 
 class MainActivity : ComponentActivity() {
